@@ -1,0 +1,1 @@
+Prve samostalne vježbe u programskom jeziku C u sklopu vježbi iz kolegija operacijski sustavi.
